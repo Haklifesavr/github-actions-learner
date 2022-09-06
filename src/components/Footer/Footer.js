@@ -34,7 +34,7 @@ export default function Footer(props) {
             </ListItem>
             <ListItem className={classes.inlineBlock}>
               <a href="#blog" className={classes.block}>
-                Blog
+                Blogs
               </a>
             </ListItem>
           </List>
