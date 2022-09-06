@@ -34,6 +34,10 @@
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
   },
+  "engines": {
+    "node": "16",
+    "npm": "=<6"
+  },
   "keywords": [],
   "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
   "license": "MIT",
